@@ -1,0 +1,60 @@
+/* Universal Selector */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Element Selector */
+body
+{
+    background-color: lightblue;
+}
+
+/* ID Selector */
+#header
+{
+    color: purple;
+    text-align:center;
+    font-size:40px;
+}
+
+/* Class Selector */
+.player-card
+{
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* Hover Selector */
+.player-card:hover
+{
+    background-color:darkcyan;
+}
+
+/* Group Selector */
+h2
+{
+    color:black;
+}
+
+ul
+{
+    list-style-type: circle;
+    margin-left: 20px;
+    font-size: 18px;
+    color:floralwhite;
+}
+
+body
+{
+background: #fffbd5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #b20a2c, #fffbd5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #b20a2c, #fffbd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.img{
+    height: 300px;
+    width: 500px;
+}
