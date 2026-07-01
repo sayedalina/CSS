@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin-left: 20px;
+}
+
+h2{
+    font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  color:blue;
+}
+
+h3{
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.light{
+    font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 20px;
+  color:brown
+}
+
+.evolution{
+    font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 25px;
+  color:blueviolet;
+}
+
+.sleep{
+    font-family: "Smooch Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 30px;
+  color:darkgreen;
+}
+
+.desert{
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font size: 35px;
+  
+}
+.light{
+  font-family: "Playwrite NZ", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+;
+}
+
+.castle{
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+  font-style: normal;
+  color: crimson;
+}
+
+.gravity{
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  color: darkmagenta;
+}
+
+.rain
+{
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size:30px;
+}
