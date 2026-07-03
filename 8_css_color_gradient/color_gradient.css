@@ -1,0 +1,139 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color:dodgerblue;
+    font-size: 50px;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.color1{
+    background-color: #780000;
+    height: 300px;
+    width: 380px;
+}
+.color2{
+    background-color: #c1121f;
+    height: 300px;
+    width: 380px;
+}
+.color3{
+    background-color: #fdf0d5;
+    height: 300px;
+    width: 380px;
+}
+.color4{
+    background-color: #003049;
+    height: 300px;
+    width: 380px;
+}
+.color5{
+    background-color: #386641;
+    height: 300px;
+    width: 380px;
+}
+.color6{
+    background-color: #6a994e;
+    height: 300px;
+    width: 380px;
+}
+.color7{
+    background-color: #a7c957;
+    height: 300px;
+    width: 380px;
+}
+.color8{
+    background-color: #f2e8cF;
+    height: 300px;
+    width: 380px;
+}
+.color9{
+    background-color: #4c956c;
+    height: 300px;
+    width: 380px;
+}
+.color10{
+    background-color: #fefee3;
+    height: 300px;
+    width: 380px;
+}
+.color11{
+    background-color: #ffc9b9;
+    height: 300px;
+    width: 380px;
+}
+.color12{
+    background-color: #d68c45;
+    height: 300px;
+    width: 380px;
+}
+.color13{
+    background-color: #a4c3b2;
+    height: 300px;
+    width: 380px;
+}
+.color14{
+    background-color: #cce3de;
+    height: 300px;
+    width: 380px;
+}
+.color15{
+    background-color: #eaf4f4;
+    height: 300px;
+    width: 380px;
+}
+.color16{
+    background-color: #f6fff8;
+    height: 300px;
+    width: 380px;
+}
+.color17{
+    background-color: #93262d;
+    height: 300px;
+    width: 380px;
+}
+.color18{
+    background-color: #ff91a0;
+    height: 300px;
+    width: 380px;
+}
+.color19{
+    background-color: #addacf;
+    height: 300px;
+    width: 380px;
+}
+.color20{
+    background-color: #62ae8a;
+    height: 300px;
+    width: 380px;
+}
+.color21{
+    background-color: #565264;
+    height: 300px;
+    width: 380px;
+}
+.color22{
+    background-color: #706677;
+    height: 300px;
+    width: 380px;
+}
+.color23{
+    background-color: #a6808c;
+    height: 300px;
+    width: 380px;
+}
+.color24{
+    background-color: #ccb7ae;
+    height: 300px;
+    width: 380px;
+}
