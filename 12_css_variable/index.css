@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-color:blue;
+    --secondary-color:#ffffff;
+    --background-color:lavender;
+    --letter-spaceing:2px;
+    --font-size:40px;
+    --text-align:center;
+}
+
+body{
+    background-color: var(--background-color);
+}
+
+h1{
+    color:var(--primary-color);
+    letter-spacing: var(--letter-spaceing);
+    font-size: var(--font-size) ;
+    text-align:var(--text-align);
+}

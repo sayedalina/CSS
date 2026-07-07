@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: gainsboro;
+}
+.btn{
+    margin-top: 20%;
+    margin-left: 40%;
+    padding: 10px 50px;
+    background-color: #fffef9;
+    color: #0b5497;
+    border: 1px solid #0b5497;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-family: cursive;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 0px 20px #0b5497;
+}
+.btn:hover{
+    background-color:#0b5497 ;
+    color: #fffef9;
+    border: 3px solid #fffef9;
+    transform: scale(1.1);
+}
